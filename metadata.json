@@ -1,0 +1,6 @@
+{
+  "name": "CRM Banho e Tosa",
+  "description": "Sistema de CRM portável para pet shops: cadastro de clientes (nome, telefone, email), lembretes de banho e tosa via WhatsApp, controle de agendamentos e importação de planilhas Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
